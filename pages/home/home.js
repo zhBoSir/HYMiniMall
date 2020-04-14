@@ -65,6 +65,7 @@ Page({
   tabClick(e) {
     // 1.根据当前的点击赋值最新的currentType
     let currentType = ''
+    console.log(e.detail.index)
     switch(e.detail.index) {
       case 0:
         currentType = POP

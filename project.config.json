@@ -14,7 +14,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.6",
-	"appid": "wx44a8878d2bb8c7d8",
+	"appid": "touristappid",
 	"projectname": "minimall",
 	"debugOptions": {
 		"hidedInDevtools": []
